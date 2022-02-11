@@ -1,0 +1,1 @@
+order: "test_dfs test_bfs test_ucs test_astar test_corners_state test_corners_heuristic test_food_clearing_search"
